@@ -12,9 +12,9 @@ subset to a text file.
 
 This repository contains:
 
-*	**Code\_Book.txt** that provides a brief description of process undertaken
+*	**Code\_Book.md** that provides a brief description of process undertaken
 	to produce the data.
 
 *	**run\_analysis.R** has the R script used to load and process the data
 
-*	**summary.txt** that has the processed summary.
+*	**summary.md** that has the processed summary.
